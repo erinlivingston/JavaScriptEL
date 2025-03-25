@@ -17,6 +17,12 @@ h1 {
     white-space: pre-line;
   } 
 
+ h2 {
+  font-size: 20px;
+  color: rgb(73, 200, 153);
+
+ } 
+
   #love {
     border: 5px solid rgb(16, 29, 55);
     background-color: rgb(73, 200, 153);
